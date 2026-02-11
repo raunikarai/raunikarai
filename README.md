@@ -102,7 +102,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raunikarai&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=raunikarai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
