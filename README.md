@@ -28,3 +28,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=raunikarai&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=raunikarai&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raunikarai&layout=compact&theme=radical)
